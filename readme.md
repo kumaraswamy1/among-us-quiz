@@ -2,7 +2,7 @@
 # YOU KINDA SUS!?
 
 
-![alt text](./image.jpg)
+![alt text](./Images/image.jpg)
 
 
 ## Checkout the CLI quiz app based on game called among us!
